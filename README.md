@@ -35,8 +35,3 @@ Teste:
 1. 100% de atendimento, sem bateria.
 2. 100% de atendimento, com bateria e 12 horas de autonomia.
 
-## Importante
-
-Os preços dos datasets são valores didáticos para composição do orçamento da atividade. Não são cotações de mercado.
-
-O resultado é pré-dimensionamento acadêmico. Em uma implantação real devem ser analisados, entre outros fatores, área disponível, orientação/inclinação, sombreamento, strings, limites elétricos do inversor, proteções, aterramento, estrutura, normas e requisitos da distribuidora.
