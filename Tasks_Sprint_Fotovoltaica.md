@@ -1,4 +1,4 @@
-# Tasks e Dependências — Sprint Fotovoltaica
+# Tasks e Dependências
 
 | ID | Task | Dependência | Evidência |
 |---|---|---|---|
