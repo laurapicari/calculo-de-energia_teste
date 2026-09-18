@@ -21,32 +21,6 @@
 - Memória de cálculo e observações acadêmicas.
 - Documentação da Sprint, Tasks, dependências e fontes.
 
-## Estrutura
-
-```text
-AtividadeSERS_Sprint_Fotovoltaica/
-├── sersEnergiaCasa.py
-├── datasets/
-│   ├── paineis.csv
-│   ├── inversores.csv
-│   ├── baterias.csv
-│   └── hsp_referencia.csv
-└── docs/
-    ├── Backlog_Sprint_Fotovoltaica.md
-    ├── Tasks_Sprint_Fotovoltaica.md
-    └── FONTES_E_PREMISSAS.md
-```
-
-## Execução
-
-No terminal:
-
-```bash
-python sersEnergiaCasa.py
-```
-
-Os datasets precisam permanecer dentro da pasta `datasets/`.
-
 ## Cenário de teste sugerido
 
 Cadastre um imóvel em São Paulo e registre, por exemplo:
