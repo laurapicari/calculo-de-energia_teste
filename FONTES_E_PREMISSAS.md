@@ -26,8 +26,3 @@
 - Geração estimada mensal: `P_instalada × HSP × 30 × η`.
 - A solução é um pré-dimensionamento acadêmico e não substitui projeto executivo.
 
-## Fontes consultadas
-- CRESESB/SunData: https://www.cresesb.cepel.br/?section=sundata
-- Growatt SPH 4000–10000TL3 BH-UP: https://igrowattinverter.com/wp-content/uploads/2023/04/SPH-4000-10000TL3-BH-UP-Datasheet.pdf
-- Growatt ARK HV Battery System: https://www.growatt.tech/wp-content/uploads/2024/11/ARK_HV_Battery_System_Datasheet_EN_202401.pdf
-- Canadian Solar CS6W: ficha técnica da família CS6W-530/535/540/545/550/555MS.
