@@ -1,4 +1,3 @@
-# calculo-de-energia_teste# Sistema de Dimensionamento Energético Residencial — Sprint Fotovoltaica
 
 ## O que foi implementado
 
