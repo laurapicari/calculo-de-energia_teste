@@ -112,9 +112,3 @@ A faixa operacional aproximada do banco de 5 módulos é **236–284 V**, compat
 - Potência instalada: **4,40 kWp**
 - Armazenamento nominal: **12,80 kWh**
 - Armazenamento útil: **11,52 kWh**
-
-## Observação
-
-Os valores de preço acima são **didáticos**, inseridos para permitir a formação do orçamento exigido pela atividade. Não representam cotação comercial.
-
-Os cenários são pré-dimensionamentos acadêmicos e não substituem projeto elétrico executivo, estudo de sombreamento, definição de strings, proteções, estrutura, aterramento e demais verificações de uma instalação real.
