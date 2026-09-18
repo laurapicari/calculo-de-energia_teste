@@ -17,32 +17,3 @@
 | T57 | Executar cenários sem/com bateria | T56 | documentação |
 | T58 | Compor orçamento | T46/T49/T56 | saída do sistema |
 | T61 | Documentar fontes/premissas | todas | `README.md` |
-
-## Dependências principais
-
-```text
-Imóvel
-  ↓
-Histórico de consumo
-  ↓
-Consumo de referência
-  ↓
-HSP + percentual de atendimento
-  ↓
-Potência FV calculada
-  ↓
-Seleção de módulos
-  ↓
-Potência instalada
-  ↓
-Seleção/compatibilidade do inversor
-  ↓
-┌───────────────────────┐
-│ Sem bateria            │ → Orçamento
-└───────────────────────┘
-             ou
-┌───────────────────────┐
-│ Autonomia + bateria    │
-│ + tensão compatível    │ → Orçamento
-└───────────────────────┘
-```
